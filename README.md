@@ -1,9 +1,11 @@
 # why hello there...
 
+[software](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jraqNouI3tx6SYm6xAXrY6sVovAtGzWlf_nh61qOjb8vDfujRCfAEGxY&s=10) @ [sea12](https://pyxis.nymag.com/v1/imgs/4f6/886/69dd4f6bea4966df9c8d167c03c8c909b3-13-wojak-00.2x.h473.w710.jpg) as of [fall](https://i.redd.it/r2dmtyqs9ohf1.jpeg) [2026](https://brobible.com/wp-content/uploads/2025/12/funniest-meme-2026-is-coming.jpg)
+
 ## Projects
 
-* UI Kit
-* Harness
+* [UI](https://imgs.xkcd.com/comics/ui_vs_ux_2x.png) Kit
+* [Harness](https://i.redd.it/eeqrf00jhj5f1.png)
 
 <!--
 **bkroul-sea12/bkroul-sea12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
